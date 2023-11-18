@@ -1,0 +1,126 @@
+body{
+    background-image: url('bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Acme', sans-serif;
+    text-align: center;
+}
+
+.m{
+    background-color: black;
+    box-shadow: 5px 5px 5px red;
+    margin-top: -20px;
+}
+
+#h1{
+    color: red;
+    font-size: 70px;
+    text-shadow: 2px 2px 2px red;
+    display: inline-block;
+    margin-left: 350px;
+}
+
+#ins{
+    float: right;
+    margin-top: 30px;
+    background-color: black;
+    box-shadow: 2px 2px 3px red;
+    margin-right: 10px;
+    color: red;
+    text-shadow: 2px 2px 2px red;
+    border: 2px solid red;
+    font-size: 40px;
+}
+
+#img{
+    height: 900px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 100px red;
+}
+
+#play{
+    background-color: black;
+    box-shadow: 2px 2px 10px red;
+    color: red;
+    text-shadow: 2px 2px 2px red;
+    border: 2px solid red;
+    font-size: 70px;
+    border-radius: 10px;
+}
+
+#reset{
+    background-color: black;
+    box-shadow: 2px 2px 10px green;
+    color: green;
+    text-shadow: 2px 2px 2px green;
+    border: 2px solid green;
+    font-size: 70px;
+    border-radius: 10px;
+}
+
+#pause{
+    background-color: black;
+    box-shadow: 2px 2px 10px yellow;
+    color: yellow;
+    text-shadow: 2px 2px 2px yellow;
+    border: 2px solid yellow;
+    font-size: 70px;
+    border-radius: 10px;
+}
+
+#h2{
+    background-color: black;
+    color: red;
+    font-size: 55px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px red;
+    border: 2px solid red;
+    text-shadow: 2px 2px 2px red;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+video{
+    background-image: url('hand set.png');
+    background-size: cover;
+    background-position: center;
+    padding: 100px;
+}
+
+#credits{
+    background-color: black;
+    text-shadow: 2px 2px 2px red;
+    color: red;
+    font-size: 50px;
+    box-shadow: -5px -5px 5px red;
+}
+
+a{
+    color: red;
+}
+
+a:hover{
+    text-shadow: 2px 2px 2px blue;
+    color: blue;
+}
+
+.info{
+    display: inline-block;
+    width: 50%;
+    box-shadow: 5px 5px 5px red;
+    border: 5px red solid ;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.modal-content{
+    background-color: black;
+    color: red;
+    text-shadow: 2px 2px 2px red;
+    box-shadow: 5px 5px 5px red;
+}
